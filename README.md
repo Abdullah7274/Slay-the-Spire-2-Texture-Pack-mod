@@ -89,6 +89,16 @@ Slay the Spire 2/mods/TextureReplacerMod/
 ### "Don't have permission to access the game directory"
 - Run visual studio as administrator
 
+### Missing dependencies
+Right click the project in Visual Studio → Add → Project Reference → Browse and select the following:
+
+(C:\Program Files\Steam\steamapps\common\Slay the Spire 2\data_sts2_windows_x86_64\):
+
+- GodotSharp.dll
+- MonoMod.ILHelpers.dll
+- sts2.dll
+- 0Harmony.dll
+
 ---
 
 ## Credits
