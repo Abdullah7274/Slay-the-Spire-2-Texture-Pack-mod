@@ -12,7 +12,4 @@ obj/
 # Godot generated files
 pack/.godot/
 
-local.props
-
-
 .vs

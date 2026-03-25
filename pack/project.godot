@@ -1,8 +1,8 @@
 ﻿config_version=5
 
 [application]
-config/name="TextureReplacerMod"
+config/name="MemeTexturePack"
 config/features=PackedStringArray("4.5", "Forward Plus")
 
 [dotnet]
-project/assembly_name="TextureReplacerMod"
+project/assembly_name="MemeTexturePack"

@@ -9,8 +9,8 @@
 		<Nullable>enable</Nullable>
 		
 		<!-- ↓ MOD METADATA - Change these! -->
-		<ModName>TextureReplacerMod</ModName>
-		<ModDisplayName>Texture Replacer Mod</ModDisplayName>
+		<ModName>MemeTexturePack</ModName>
+		<ModDisplayName>Meme Texture Pack</ModDisplayName>
 		<ModAuthor>Angery_Rowlet</ModAuthor>
 		<ModVersion>1.0.0</ModVersion>
 		
